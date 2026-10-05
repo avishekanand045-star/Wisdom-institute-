@@ -1,0 +1,6 @@
+{
+  "name": "Wisdom Institute | Classes 6th - 10th (ICSE & CBSE)",
+  "description": "Modern 3D academic portal for Wisdom Institute, the premier coaching academy for Classes 6th to 10th specializing in ICSE and CBSE boards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
